@@ -1,0 +1,115 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom;C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'ASUS RoG GT52'
+OS-Version: 10.0.16299 () 0x300-0x1
+C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR.exe:TUGVR.exe (00007FF65D460000), size: 23744512 (result: 0), SymType: '-exported-', PDB: 'C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR.exe', fileVersion: 5.6.0.31247
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFCF8400000), size: 1966080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFCF63D0000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFCF48A0000), size: 2514944 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFCF7FF0000), size: 1634304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.16299.125
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFCF4DF0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFCF7F50000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFCF4E10000), size: 1650688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.16299.98
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFCF3400000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFCF4800000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFCF7E20000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.16299.125
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFCF5000000), size: 1007616 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFCF65D0000), size: 1347584 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.16299.192
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFCF5900000), size: 3178496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFCF7BE0000), size: 1175552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.16299.192
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFCF5850000), size: 466944 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.16299.98
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFCED8D0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFCF5DB0000), size: 372736 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFCF7EE0000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFCF6520000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 10.0.16299.192
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFCF6720000), size: 21192704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFCF4FB0000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFCF7D00000), size: 679936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (00007FFCF5100000), size: 7630848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\windows.storage.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFCF4790000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\kernel.appcore.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (00007FFCF47B0000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\powrprof.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\profapi.dll:profapi.dll (00007FFCF4770000), size: 110592 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\profapi.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFCF8180000), size: 442368 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFCF81F0000), size: 806912 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFCF58D0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFCCA960000), size: 1171456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFCEFCD0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFCF3DB0000), size: 745472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFCF3D70000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFCEDDF0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.16299.192
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFCF7F40000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFCEF980000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFCEFC70000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFCF2150000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.16299.15
+C:\Program Files\ASUSTeKcomputer.Inc\SS2\UserInterface\x64\SS2OSD.dll:SS2OSD.dll (00007FFCDCAE0000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\ASUSTeKcomputer.Inc\SS2\UserInterface\x64\SS2OSD.dll'
+C:\Program Files\ASUSTeKcomputer.Inc\SS2\UserInterface\x64\SS2DevProps.dll:SS2DevProps.dll (00007FFCDCB30000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\ASUSTeKcomputer.Inc\SS2\UserInterface\x64\SS2DevProps.dll'
+C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR_Data\Mono\mono.dll:mono.dll (00007FFCC0670000), size: 2998272 (result: 0), SymType: '-exported-', PDB: 'C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFCF7DB0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFCF3FE0000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFCF6480000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFCEBE20000), size: 454656 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MMDevApi.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFCF4560000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DEVOBJ.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\PROPSYS.dll:PROPSYS.dll (00007FFCF25F0000), size: 1773568 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PROPSYS.dll', fileVersion: 7.0.16299.15
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFCE7D20000), size: 1187840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFCF02A0000), size: 1269760 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (00007FFCEF930000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00000000075E0000), size: 1470464 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.16299.19
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (00007FFCF2C60000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFCF11B0000), size: 3022848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFCF3570000), size: 716800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.16299.98
+C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR_Data\Plugins\openvr_api.dll:openvr_api.dll (00007FFCEF770000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\Users\ASUS RoG GT52\Desktop\TUGVR-telecom\TUGVR_Data\Plugins\openvr_api.dll'
+C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrclient_x64.dll:vrclient_x64.dll (00007FFCC0410000), size: 2478080 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrclient_x64.dll'
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFCF5E10000), size: 4513792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFCDF500000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.11.25506.0
+C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFCDF520000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP140.dll', fileVersion: 14.11.25506.0
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFCF4B10000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.dll', fileVersion: 10.0.16299.248
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFCF4750000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSASN1.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFCF4C20000), size: 1892352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFCF3230000), size: 1867776 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.16299.15
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFCF4650000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 10.0.16299.192
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00007FFCF48B4008 (KERNELBASE) RaiseException
+0x00007FFCDF502D66 (VCRUNTIME140) _TypeMatch
+0x00007FFCF84A4203 (ntdll) RtlCaptureContext
+0x00007FFCC048EFA7 (vrclient_x64) HmdSystemFactory
+0x00007FFCC0490BF6 (vrclient_x64) HmdSystemFactory
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FFCC0466B67)
+0x00007FFCC0466B67 (vrclient_x64) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FFCC04659C0)
+0x00007FFCC04659C0 (vrclient_x64) 
+0x00007FFCEF771EB2 (openvr_api) VR_InitInternal
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DD7C1D3)
+0x00007FF65DD7C1D3 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DD7C548)
+0x00007FF65DD7C548 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DD692D3)
+0x00007FF65DD692D3 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D7548AA)
+0x00007FF65D7548AA (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D758019)
+0x00007FF65D758019 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D79C02E)
+0x00007FF65D79C02E (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D7AB206)
+0x00007FF65D7AB206 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D71FFBC)
+0x00007FF65D71FFBC (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D72252C)
+0x00007FF65D72252C (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DC8591B)
+0x00007FF65DC8591B (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DC8355E)
+0x00007FF65DC8355E (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65D4CEAE6)
+0x00007FF65D4CEAE6 (TUGVR) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00007FF65DE69C6C)
+0x00007FF65DE69C6C (TUGVR) 
+0x00007FFCF63E1FE4 (KERNEL32) BaseThreadInitThunk
+0x00007FFCF846EFC1 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
